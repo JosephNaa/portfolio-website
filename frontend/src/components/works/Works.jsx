@@ -48,7 +48,7 @@ export default function Works() {
                 <div className="container">
                     <div className="item">
                         <div className="left">
-                            <div className="leftcontainer">
+                            <div className="leftContainer">
                                 <div className="imgContainer">
                                     <img src={d.icon} alt="" />
                                 </div>
